@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Tooling, if you add any later
+node_modules/
+.vercel/
+dist/
+
+# Local Claude Code preview config
+.claude/
